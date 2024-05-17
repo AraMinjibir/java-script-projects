@@ -1,0 +1,21 @@
+[submodule "form-control-project"]
+	path = form-control-project
+	url = git@github.com:AraMinjibir/form-control-project.git
+[submodule "quickNoteApp"]
+	path = quickNoteApp
+	url = git@github.com:AraMinjibir/quickNoteApp.git
+[submodule "reg-form-pro"]
+	path = reg-form-pro
+	url = git@github.com:AraMinjibir/reg-form-pro.git
+[submodule "guess-game-pro"]
+	path = guess-game-pro
+	url = git@github.com:AraMinjibir/guess-game-pro.git
+[submodule "silly-story-pro"]
+	path = silly-story-pro
+	url = git@github.com:AraMinjibir/silly-story-pro.git
+[submodule "machine-mini"]
+	path = machine-mini
+	url = git@github.com:AraMinjibir/machine-mini.git
+[submodule "press-me-mini"]
+	path = press-me-mini
+	url = git@github.com:AraMinjibir/press-me-mini.git
